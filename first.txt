@@ -1,1 +1,3 @@
 Hello my git project
+
+Changes for fetch/merge
